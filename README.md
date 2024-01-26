@@ -6,8 +6,8 @@ A comment button that opens up a modal and allows users to leave comments.
 
 ## Built With
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript(ES6)
 - Webpack
 - Jest Library
@@ -32,17 +32,18 @@ A comment button that opens up a modal and allows users to leave comments.
 
 ## Authors
 
-👤 **Mohamed Badr**
+👤 **Author1**
 
-- GitHub: (https://github.com/mbdesigns1989)
-- Twitter: (https://twitter.com/mohamed66083152)
-- LinkedIn: (https://www.linkedin.com/in/mohamed-badr-27b26a212/)
+- Mohamed Badr
+- [GitHub](https://github.com/mbdesigns1989)
+- [Twitter_X](https://twitter.com/mohamed66083152)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-badr-27b26a212/)
 
-👤 **Busiwa Liuma**
-
-- GitHub: (https://github.com/Busiwa24) 
-- Twitter: (https://twitter.com/busiwaliuma) 
-- LinkedIn: (https://www.linkedin.com/in/busiwa-liuma-28385b80/>)
+## Author 2
+- Busiwa Liuma
+- [GitHub](https://github.com/Busiwa24) 
+- [Twitter_X](https://twitter.com/busiwaliuma) 
+- [LinkedIn](https://www.linkedin.com/in/busiwa-liuma-28385b80/>)
 
 ##  Contributing
 
